@@ -1,0 +1,2 @@
+# QQChatServer
+基于muduo网络库实现的qq集群聊天服务器，工作在Nginx的Tcp负载均衡利用Redis发布订阅模式的消息队列实现集群服务器消息的转发
