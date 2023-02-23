@@ -49,3 +49,9 @@
         └── thirdparty
             └── json.hpp
 
+
+单体的一个架构设计：
+![image](https://user-images.githubusercontent.com/117898635/220850436-2dc7f305-6a6c-4a07-8e80-ea7f013c7495.png)
+
+
+
