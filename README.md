@@ -88,5 +88,5 @@ CREATE TABLE OfflineMessage(
 所有model对象就是封装了用来操作对应表数据的的方法，接收User/Group对象（映射对应表的字段），调用封装的数据库方法，去对各个表进行操作
 
 引入了负载均衡之后的一个架构：
-![image](https://user-images.githubusercontent.com/117898635/220852964-b4b37574-fdcd-4b8c-ad10-d3b306c69bf7.png)
+![image](https://user-images.githubusercontent.com/117898635/224493887-4ad06b90-5323-498d-a5ad-872060e51868.png)
 
